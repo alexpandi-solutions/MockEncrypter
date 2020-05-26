@@ -1,0 +1,9 @@
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\bin\Release\Encrypter.exe.config
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\bin\Release\Encrypter.exe
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\bin\Release\Encrypter.pdb
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\obj\Release\Encrypter.Form.resources
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\obj\Release\Encrypter.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\obj\Release\Encrypter.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\obj\Release\Encrypter.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\obj\Release\Encrypter.exe
+C:\Users\alexa\OneDrive\Documents\IORDAN\Encrypter\obj\Release\Encrypter.pdb
